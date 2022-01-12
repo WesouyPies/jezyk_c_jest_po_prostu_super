@@ -3,8 +3,8 @@
 void main ()
 {
     int n;
-    printf("Podaj liczbe\n"); // Wyświetla liczbe //
-    scanf("%d", &n);
+    printf("Podaj liczbe\n"); // Prosi o podanie liczby
+    scanf("%d", &n);          //wprowadzenie wartości dla n
  
     int i = 0;
     while (i < n ) {
