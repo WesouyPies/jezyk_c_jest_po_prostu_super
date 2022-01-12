@@ -4,7 +4,7 @@
 #define PODGODZIN 40
 #define POD1200 0.15
 #define POD600 0.2
-#define PODRESZTA 0.25
+#define PODRESZTA 0.25 // Define //
 
 int salary(int hours) {  //liczymy pensje
     if (hours <= PODGODZIN)    //sprawdzamy czy ilość godzi kwalifikuje na nadgodziny
