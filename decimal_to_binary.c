@@ -1,5 +1,5 @@
 #include <stdio.h>
-
+// Krzychu //
 int main()
 {
     for (int character = 32; character < 256;) { //pierwsze 32 wartości char to liczby co nas nie interesuje, 256 to jeden więcej niż maksymalna wartość char
