@@ -1,7 +1,7 @@
 #include <stdio.h>
 #include <ctype.h>
 #include <stdbool.h>
-
+// Krzychu11 //
 int main(){
     int wordcount = 1;  //liczy ilość spacje wiec jeżeli wprwowadzilibyśmy jedno słowo to by pokazało że jest zero słów
     int numchar = 0;    //ilość zanaków
