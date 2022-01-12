@@ -3,7 +3,7 @@
 void main ()
 {
     int n;
-    printf("Podaj liczbe\n");
+    printf("Podaj liczbe\n"); // Wyświetla liczbe //
     scanf("%d", &n);
  
     int i = 0;
