@@ -10,6 +10,6 @@ void main ()
     while (i < n ) {
         if (++i % 2 == 0) continue;
  
-        printf("%d ", i);
+        printf("%d ", i); //Wiktor Gruszka
     }
 }

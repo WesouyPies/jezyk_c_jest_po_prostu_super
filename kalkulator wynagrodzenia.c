@@ -25,8 +25,9 @@ int calctax(int salary) {   //funkcja licząca podatek.
         if(temp <= 600 && temp>0){  //dla kolejnych 600.
             tax += temp*POD600;
             temp-= 600;
-            if(temp > 0)        //dla reszty wynagrodzenia.
-                tax += temp * PODRESZTA;
+            if(temp > 0)        //dla reszty wynagrodzenia
+                tax += temp * PODRESZTA; //Wiktor Gruszka
+
         }
     }
 
