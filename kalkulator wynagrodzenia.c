@@ -1,5 +1,5 @@
 #include <stdio.h>
-
+// Krzychu //
 #define WYNAGRODZENIE 40   //definiujemy stałe jak wynagrodzenie, standardową ilość godzin i stopy poddatkowe.
 #define PODGODZIN 40
 #define POD1200 0.15
