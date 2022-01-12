@@ -13,5 +13,5 @@ int main(){
             wordcount++;
     }
     printf("liczba znakow wynosi %d, liczba slow wynosi %d", numchar, wordcount);
-    return 0;
+    return 0; //Wiktor Gruszka
 }

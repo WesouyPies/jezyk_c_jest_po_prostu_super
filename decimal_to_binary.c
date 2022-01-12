@@ -9,5 +9,5 @@ int main()
         }
         printf("\n"); // przejście do następnego wiersza
     }
-    return 0;
+    return 0; //Wiktor Gruszka
 }
