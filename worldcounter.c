@@ -1,5 +1,5 @@
 #include <stdio.h>
-#include <ctype.h>
+#include <ctype.h> // Krzychu //
 #include <stdbool.h>
 
 int main(){
