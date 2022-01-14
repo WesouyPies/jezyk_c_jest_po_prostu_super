@@ -32,7 +32,7 @@ int calctax(int salary) {   //funkcja licząca podatek
 
     return tax;
 }
-//hau hau
+
 int main() {
     int hours;
     printf("Wprowadz ilosc przepracowanych godzin\n");
@@ -40,3 +40,4 @@ int main() {
     printf("twoje wynagrodzenie to %d\ntwoj podatek do zaplacenia to %d", salary(hours),calctax(salary(hours)));
     return 0;
 }
+//hau hau
