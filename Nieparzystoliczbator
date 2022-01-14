@@ -2,7 +2,7 @@
  // Krzychu11 //
 void main ()
 {
-    int n;
+    int n; // Ribut //
     printf("Podaj liczbe\n"); // Wyświetla liczbe //
     scanf("%d", &n);
  
