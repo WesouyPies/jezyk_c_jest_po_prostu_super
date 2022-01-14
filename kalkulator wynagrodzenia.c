@@ -1,6 +1,6 @@
 #include <stdio.h>
 // Krzychu11 //
-#define WYNAGRODZENIE 40   //definiujemy stałe jak wynagrodzenie, standardową ilość godzin i stopy poddatkowe
+#define WYNAGRODZENIE 40   //definiujemy stałe jak wynagrodzenie, standardową ilość godzin i stopy poddatkowe // Ribut //
 #define PODGODZIN 40
 #define POD1200 0.15
 #define POD600 0.2
