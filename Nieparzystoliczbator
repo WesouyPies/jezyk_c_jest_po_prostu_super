@@ -13,3 +13,4 @@ void main ()
         printf("%d ", i);
     }
 }
+//hau hau
