@@ -15,3 +15,4 @@ int main(){
     printf("liczba znakow wynosi %d, liczba slow wynosi %d", numchar, wordcount);
     return 0;
 }
+//hau hau 
